@@ -1,23 +1,23 @@
 body {
-    font-family: Arial;
-    background-color: black;
-    text-align: center;
-}
-
-h1 {
-    color: #333;
-}
-body {
     font-family: Arial, sans-serif;
-    margin: 3;
+    margin: 0;
     background-color: white;
     text-align: center;
 }
 
 header {
     background-color: #333;
-    color: White;
+    color: white;
     padding: 40px 20px;
+}
+
+h1 {
+    margin-bottom: 10px;
+    color: white;
+}
+
+h2 {
+    color: #333;
 }
 
 .services, .contact {
@@ -27,14 +27,6 @@ header {
     width: 80%;
     border-radius: 10px;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-}
-
-h1 {
-    margin-bottom: 10px;
-}
-
-h2 {
-    color: #333;
 }
 
 ul {
